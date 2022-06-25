@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tour-page/static/css/main.daa15116.css",
+    "main.js": "/tour-page/static/js/main.9ccdf08d.js",
+    "static/js/787.610ea1b4.chunk.js": "/tour-page/static/js/787.610ea1b4.chunk.js",
+    "index.html": "/tour-page/index.html",
+    "main.daa15116.css.map": "/tour-page/static/css/main.daa15116.css.map",
+    "main.9ccdf08d.js.map": "/tour-page/static/js/main.9ccdf08d.js.map",
+    "787.610ea1b4.chunk.js.map": "/tour-page/static/js/787.610ea1b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa15116.css",
+    "static/js/main.9ccdf08d.js"
+  ]
+}
